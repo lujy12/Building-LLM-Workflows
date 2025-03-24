@@ -1,4 +1,4 @@
-# LLM Workflow Automation
+# Building-LLM-Workflows
 This project automates content repurposing using Large Language Models (LLMs). It converts blog posts into summaries, social media posts, and email newsletters using different workflow approaches:
 
 - Sequential Workflow: Processes tasks step by step.
